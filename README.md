@@ -17,6 +17,7 @@ Currently learning JavaScript, Python, and cyber-sec.
 <details>
   <summary>Other</summary>
 <details>
+    
   <summary>Social</summary>
     <p align="center">
     Social:
