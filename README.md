@@ -15,9 +15,9 @@ Currently learning JavaScript, Python, and cyber-sec.
     <a href="https://discord.gg/kJzjSX2Ja5">Discord Server</a>
   
 <details>
-  <summary>Extra</summary>
+  <summary>Other</summary>
 <details>
-  <summary>Socials</summary>
+  <summary>Social</summary>
     <p align="center">
     Social:
 <p align="center"> 
@@ -29,7 +29,7 @@ Currently learning JavaScript, Python, and cyber-sec.
 <details>
   <summary>Contact</summary>
     <p align="center">
-    Contact Me Through:
+    Contact Me Through :
 <p align="center"> 
     ﹒
     <a href="https://discord.com/users/314843599256944641">Discord</a>
@@ -38,17 +38,6 @@ Currently learning JavaScript, Python, and cyber-sec.
 Or contact@adamp.eu
 </p>
 </details>
-<details>
-  <summary>Support</summary>
-    <p align="center">
-    Support Me If You Wish:
-<p align="center"> 
-    ﹒  
- <a href="https://discord.gg/kJzjSX2Ja5">My Main Discord Server</a>
-    ﹒
-</p>
-</details>
-
 <details>
   <summary>Stats</summary>
     <img src="https://github-readme-stats.vercel.app/api?username=RealParrot&show_icons=true&count_private=true&hide_title=true">
