@@ -41,7 +41,7 @@ Or contact@adamp.eu
 </details>
 <details>
   <summary>Stats</summary>
-    <img src="https://github-readme-stats.vercel.app/api?username=RealParrot&show_icons=true&count_private=true&hide_title=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealParrot">
+    <img src="https://github-readme-stats.vercel.app/api?username=g3y&show_icons=true&count_private=true&hide_title=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g3y">
 </details>
 </details>
