@@ -23,7 +23,7 @@ Currently learning JavaScript, Python, and cyber-sec.
     Social:
 <p align="center"> 
     ﹒
-    <a href="https://steamcommunity.com/id/parr0tt/">Steam</a>
+    <a href="https://steamcommunity.com/id/Adam1337_/">Steam</a>
     ﹒    
 </p>
 </details>
