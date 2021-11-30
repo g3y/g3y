@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://adamp.eu/medias/page01311915.jpg">
+<img src="https://cdn.discordapp.com/attachments/866127480880627722/915309950086033459/unknown.png">
 </p>
 <p align="center">
     Parrot
@@ -12,7 +12,7 @@
 <p align="center">
 Currently learning JavaScript, Python, and cyber-sec.
 <p align="center">
-    <a href="https://discord.gg/kJzjSX2Ja5">Discord Server</a>
+    <a href="https://discord.gg/3TD5zKcwM9">Discord Server</a>
   
 <details>
   <summary>Other</summary>
@@ -23,7 +23,7 @@ Currently learning JavaScript, Python, and cyber-sec.
     Social:
 <p align="center"> 
     ﹒
-    <a href="https://steamcommunity.com/id/Adam1337_/">Steam</a>
+    <a href="https://steamcommunity.com/id/zuki1337/">Steam</a>
     ﹒    
 </p>
 </details>
