@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://fatality.lgbt/zuki.png">
+<img src="https://cdn.discordapp.com/attachments/866127480880627722/915309950086033459/unknown.png">
 </p>
 <p align="center">
     Parrot
